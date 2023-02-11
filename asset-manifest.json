@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/NewsApex/static/css/main.abd64e84.css",
+    "main.js": "/NewsApex/static/js/main.46507b84.js",
+    "static/js/787.706fbdfd.chunk.js": "/NewsApex/static/js/787.706fbdfd.chunk.js",
+    "index.html": "/NewsApex/index.html",
+    "main.abd64e84.css.map": "/NewsApex/static/css/main.abd64e84.css.map",
+    "main.46507b84.js.map": "/NewsApex/static/js/main.46507b84.js.map",
+    "787.706fbdfd.chunk.js.map": "/NewsApex/static/js/787.706fbdfd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.46507b84.js"
+  ]
+}
